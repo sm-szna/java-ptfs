@@ -2,8 +2,8 @@ package sm.ptfs.week1;
 
 import java.util.HashMap;
 
-public class Task {
-    public static void Run(){
+public class Leaderboard {
+    public static void print(){
         // bear minimum approach XD
         HashMap<String, Integer> leaderboard = new HashMap<>();
         leaderboard.put("Agnieszka Cieślak", 0);
